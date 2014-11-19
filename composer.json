@@ -1,0 +1,6 @@
+{
+    "minimum-stability":"stable",
+    "require": {
+        "cocur/slugify": "0.10.*"
+    }
+}
